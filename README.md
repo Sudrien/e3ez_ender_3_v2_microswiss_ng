@@ -18,4 +18,4 @@ Cura Plugins
 - Moonraker connection (stack of error messages if printer isn't on)
 
 Cura custom profile changes
-- retraction length: 1mm
+- retraction length: 1mm (can grind filament beyond gripability otherwise)
