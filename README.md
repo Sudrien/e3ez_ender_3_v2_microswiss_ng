@@ -22,3 +22,9 @@ Cura custom profile changes
 
 
 ![E3EZ ports](./BIGTREETECH%20Manta%20E3EZ%20V1.0-Interface.jpg)
+
+
+MFAN is pointed at X & Y drivers.
+FAN0 is red & black - and needs a connector crimped.
+FAN1 is blue & yellow
+
