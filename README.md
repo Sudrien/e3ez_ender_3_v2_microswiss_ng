@@ -34,5 +34,5 @@ Cura custom profile changes
 
 TODO:
 
-- FAN2 hooked to a filter (24V? buck converter?)
+- FAN2 hooked to a filter (24V? buck converter?) ( 3M 60925 , https://www.thingiverse.com/thing:3331276 )
 - RGB can power a pure white 24V LCD strip?
