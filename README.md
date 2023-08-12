@@ -30,6 +30,7 @@ Cura custom profile changes
 - FAN1 is blue & yellow
 - HE0 is the woven red wires
 - Get some ferrules on non-jst wires for mechanical soundness and less fire
+- Zstop switch engages above the bed (<2mm) ( https://www.youtube.com/watch?v=yNoPNzFKXvU fluidd is slightly differnet than mainsail, but good walkthrough)
 
 TODO:
 
