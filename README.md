@@ -19,3 +19,6 @@ Cura Plugins
 
 Cura custom profile changes
 - retraction length: 1mm (can grind filament beyond gripability otherwise)
+
+
+![E3EZ ports](BIGTREETECH Manta E3EZ V1.0-Interface.jpg)
